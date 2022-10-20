@@ -5,3 +5,4 @@ RENCANA APLIKASI
    * Sentimen analisis
 - AI Data Science
 - AI AI Computer Vision
+   * klasifikasi gambar
