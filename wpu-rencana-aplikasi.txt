@@ -1,5 +1,7 @@
 RENCANA APLIKASI 
 
 - AI NLP
+   * ChatBoat
+   * Sentimen analisis
 - AI Data Science
 - AI AI Computer Vision
