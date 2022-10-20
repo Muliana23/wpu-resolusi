@@ -7,3 +7,4 @@ RENCANA APLIKASI
    * prediksi jumlah pelanggan
 - AI AI Computer Vision
    * klasifikasi gambar
+   * Detection object
