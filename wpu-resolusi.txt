@@ -2,5 +2,5 @@ WPU RESOLUSI
 - Menguasai Bahasa pemrograman python
 - Menguasai HTML
 - Menguasai CSS
-- Membuat project AI
 - Membuat aplikasi
+- mempelajari JavaScript
