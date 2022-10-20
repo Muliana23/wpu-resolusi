@@ -1,0 +1,5 @@
+RENCANA APLIKASI 
+
+- AI NLP
+- AI Data Science
+- AI AI Computer Vision
