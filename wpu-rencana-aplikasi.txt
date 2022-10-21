@@ -2,9 +2,9 @@ RENCANA APLIKASI
 
 - AI NLP
    * ChatBoat
-   * Sentimen analisis
 - AI Data Science
    * prediksi jumlah pelanggan
 - AI AI Computer Vision
    * klasifikasi gambar
    * Detection object
+
